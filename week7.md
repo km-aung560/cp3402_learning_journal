@@ -2,19 +2,18 @@
 
 ## Learning Activities and Resources
 
-This week I learned PHP programming for database and CMS development aspects. As I already learned basic PHP syntax and conventions in the past few weeks, I was prepared to practice more advanced aspects of PHP for CMS development. An important piece of advice from my tutor is to determine the minimum amount of content to learn in order to succeed. 
+This week I learned PHP programming for database and CMS development aspects. As I already learned basic PHP syntax and conventions in the past few weeks, I was prepared to practice more advanced aspects of PHP for development. An important piece of advice from my tutor is to determine the minimum amount of learning to succeed. 
 
-This LinkedIn course is 5 hours long but I avoid doing all of it by choosing the most important topics for my project; *Building Forms*, *My SQL Basics* and *Using PHP to Access MySQL*.
+This LinkedIn course is 5 hours long including topics I already learnt. I only do the most important topics for the project; *Building Forms*, *My SQL Basics*, *PHP to Access MySQL* and *CRUD with PHP*.
 https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290
 
+## Estimated Hours - 3 hours
 
-
-## Estimated Hours
+I spent around *2 hours* on LinkedIn videos, plus *1 hour* improving my PHP skills. Group work time is not included.
 
 ## Content Insights
 
+
 ## Career/Employability/Learning Insights
 
-It is important to not waste time learning unnessesary content as it may not build towards success
-I believe this would be beneficial for learning
-Many subjects can be very broad 
+It is important to not waste time learning unnessesary content as it may not be useful for a particular goal. Many subjects are very broad and it is easy to get distracted from the important things. From this experience, I have better awareness and control over my own learning and this will help me in my career path.
