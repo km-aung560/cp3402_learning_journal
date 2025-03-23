@@ -13,7 +13,8 @@ I spent around *2 hours* on LinkedIn videos, plus *1 hour* improving my PHP skil
 
 ## Content Insights
 
+After learning about PHP for databases, I recognised a lot of similarities to Javascript. I have good experience with this language in web development and this may be the reason I had no trouble learning PHP. 
 
 ## Career/Employability/Learning Insights
 
-It is important to not waste time learning unnessesary content as it may not be useful for a particular goal. Many subjects are very broad and it is easy to get distracted from the important things. From this experience, I have better awareness and control over my own learning and this will help me in my career path.
+It is important to not waste time learning unnessesary things as it may not be useful for a particular goal. Many subjects are very broad and it is easy to get distracted from the important things. From this experience, I have better awareness and control over my own learning and this will help me in my career path.
