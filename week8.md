@@ -36,4 +36,4 @@ After conducting the test, the hypothesis is disproven. It has been revealed tha
 
 ## Career/Employability/Learning Insights
 
-After the experiment, I learned that basic scientific methods can be used in other fields and everyday life. These science methods could be used for product/software development or writing reports in industry. I am familiar with similar methods like code testing and user testing in design, but I am unsure if I will use a formal scientific method of testing in the future. 
+After the experiment, I learned that basic scientific methods can be applied to other fields and everyday life. These science methods could be used for product/software development or writing reports in industry. Hypothesis testing is similar to methods like code testing in programming and user testing in design. I may not use formal scientific methods in my career but it was interesting seeing aspects of IT methods I've learnt applied to a traditional procedure.
