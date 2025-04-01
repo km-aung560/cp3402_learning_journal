@@ -22,7 +22,6 @@ I noticed that the project management tools needed for the assignment had aspect
 
 ## Career/Employability/Learning Insights
 
-The Youtube demonstration video was more suited toward an industry-level project with 5+ members. It was insightful to see the methods used to organise a stand-up meeting for a large team. The upcoming project will include smaller versions of daily stand-up. This will prepare me for meetings and projects in industry.
-
+The Youtube demonstration video was more suited toward an industry-level project with 5+ members. It was insightful to see the methods used to organise a stand-up meeting for a large team. The upcoming project will include smaller versions of daily stand-up. If I am ever tasked with these meetings in my career, then I am well prepared for these situations in industry.
 
 
